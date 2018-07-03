@@ -1,0 +1,38 @@
+
+.root {-fx-background-image: url("Slate-Blue-Satin.png");}
+
+.label {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #0E1D33;
+    -fx-opacity:1;
+}
+.grid {
+    -fx-background-color: #ffffff;
+    -fx-background-image: url("Slate-Blue-Satin.png");
+    -fx-opacity:0.9;
+    
+    -fx-background-radius: 3.0;
+   
+}
+#login-text{
+    -fx-font-size:32px;
+    -fx-font-family: "Arial Black";
+    -fx-fill: #115E7F;
+    -fx-opacity:1;
+}
+
+#actiontarget {
+    -fx-fill:WHITE;
+    -fx-font-weight:bold;
+    -fx-opacity:1;
+    
+}
+.button {
+    -fx-text-fill:white;
+    -fx-font-family:"Arial Narrow";
+    -fx-font-weight:bold;
+    -fx-background-color:linear-gradient(#61a2b1,#2A5058);
+    -fx-opacity:1;
+    
+}
